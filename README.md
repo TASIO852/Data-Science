@@ -163,6 +163,7 @@ Ver todas elas no W3schools !!!
 - Data science Academic
 - harvard
 - udacy
+- AI 900
 
 ## Artigos para Guia
 
