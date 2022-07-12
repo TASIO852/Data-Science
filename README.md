@@ -132,6 +132,8 @@ Ver todas elas no W3schools !!!
 - Infraestrutura de Dados
 - árvore de decisão/regressão, clustering,
 - Lakehause
+- MongoDB
+- Google Cloud
 
 # Técnicas para usar nos estudos 📖
 
