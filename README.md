@@ -1,6 +1,6 @@
-# Fluxo de Estudos 📚
+# Fluxo de trabalho E Estudos
 
-## Planejamento (Cliente) 🙋‍♂️
+## Planejamento (Cliente)
 
 - Documentação
   - Regra de negocio (Readme)
@@ -15,7 +15,7 @@
   - Modelo logico código ETL
   - Modelo logico código python
 
-## Backend 😎
+## Backend
 
 - Banco de dados NO-SQL
   - Estrutura do modelo de banco de dados
@@ -26,7 +26,11 @@
     - Relacionamento em estrela
     - Modelo de Kimbal
     - Cube model OLAP
+    - Usar limit nos teste no etl
   - Data Warehouse
+  - Data Lake
+  - Data Storage
+  - Data Hub
 - Python
   - Mineração de dados
   - Tratamento de dados (Pandas,Numpy,matplotlib,sns)
@@ -68,7 +72,7 @@
     - REGEX
   - Colocar arquivos fixos na OLAP
 
-## Front end | Deploy para a produção do Frontend 💫
+## Front end | Deploy para a produção do Frontend
 
 - Figma
   - Designer do painel
@@ -79,12 +83,17 @@
 - Tableau
   - Campos calculados (Estatística)
   - Filtragem
+    - Gerais (Filtros de valores gerais que vem do datasets)
+    - Locais (Filtros específicos)
+    - Planilhas em comuns
+    - Painéis
+    - Projeto
   - Visualização
   - Relacionamento em estrela
   - Modelo de kimbal
   - Cube model OLAP
 
-## Melhorias ♻
+## Melhorias
 
 - Revisar
   - QA
@@ -105,7 +114,7 @@
         - Figma
         - Tableau
 
-### Linguagem usadas 🤖
+### Linguagem usadas
 
 Ver todas elas no W3schools !!!
 
@@ -115,7 +124,7 @@ Ver todas elas no W3schools !!!
 - Docker
 - Tipos de arquivos
 
-### Matérias para aprender 🥰
+### Matérias para aprender
 
 - Big data
 - Cibersegurança
@@ -130,28 +139,27 @@ Ver todas elas no W3schools !!!
 - ingestão, integração, processamento e armazenamento de dados
 - Terraform, cloudformation
 - Infraestrutura de Dados
-- árvore de decisão/regressão, clustering,
-- Lakehause
-- MongoDB
-- Google Cloud
+- árvore de decisão/regressão, clustering
+- Lake house
 
-# Técnicas para usar nos estudos 📖
+## Técnicas para usar nos estudos
 
 - Cheat sheet
 - Resumo
-- Roadmap
+- Road map
 - Sites
 - Imagens
 - Metodologias
-- Pratica com datasets da kaggle
+- Pratica com datasets da Kaggle
 - Revisar Processo e código de outra pessoa
 - Kambam e scrum
-- Alarmes e calendário com tasks (kamban e scrum)
+- Alarmes e calendário com tasks (Kambam e scrum)
 - comer e se higienizar corretamente
 
-# Areas de Atuação e empregos 🛅
+## Areas de Atuação e empregos
 
 - cientista de dados
+- Arquiteto de dados
 - engenheiro ML
 - analista de dados
 - dba
@@ -160,12 +168,11 @@ Ver todas elas no W3schools !!!
 
 ## Onde eu estou ? E por onde começar ?
 
-## Plataformas gratuitas com certificado 
+## Plataformas gratuitas com certificado
 
 - Data science Academic
-- harvard
-- udacy
-- AI 900
+- Harvard
+- Udacy
 
 ## Artigos para Guia
 
@@ -176,3 +183,5 @@ https://www.youtube.com/watch?v=_dRfScGH7NA
 https://www.alura.com.br/artigos/desvendando-a-regressa
 https://paulovasconcellos.com.br/28-comandos-%C3%BAteis-de-pandas-que-talvez-voc%C3%AA-n%C3%A3o-conhe%C3%A7a-6ab64beefa93
 https://paulovasconcellos.com.br/como-criar-seu-primeiro-aplicativo-de-machine-learning-7b6af291ba11
+https://www.linkedin.com/pulse/arquitetura-big-data-escolha-canaliza%C3%A7%C3%A3o-correta-para-lopes/?originalSubdomain=pt
+https://cursos.alura.com.br/challenge-devops-1-semana-2-google-cloud-leonardo-sartorello-1652371199861-p362760
