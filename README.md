@@ -124,6 +124,14 @@ Ver todas elas no W3schools !!!
 - Docker
 - Tipos de arquivos
 
+### Frameworks
+
+- FastApi
+- Sckit learning
+- Numpy
+- Pandas
+- Tensor Flow
+
 ### Matérias para aprender
 
 - Big data
@@ -176,12 +184,32 @@ Ver todas elas no W3schools !!!
 
 ## Artigos para Guia
 
-https://insightlab.ufc.br/6-passos-para-criar-seu-primeiro-projeto-de-machine-learning/
-https://www.programaria.org/roadmap-de-estudos-para-analise-ciencia-e-engenharia-de-dados/
-https://lxp.triggo.ai/article/10-tendencias-de-Data-Analytics-para-este-ano
-https://www.youtube.com/watch?v=_dRfScGH7NA
-https://www.alura.com.br/artigos/desvendando-a-regressa
-https://paulovasconcellos.com.br/28-comandos-%C3%BAteis-de-pandas-que-talvez-voc%C3%AA-n%C3%A3o-conhe%C3%A7a-6ab64beefa93
-https://paulovasconcellos.com.br/como-criar-seu-primeiro-aplicativo-de-machine-learning-7b6af291ba11
-https://www.linkedin.com/pulse/arquitetura-big-data-escolha-canaliza%C3%A7%C3%A3o-correta-para-lopes/?originalSubdomain=pt
-https://cursos.alura.com.br/challenge-devops-1-semana-2-google-cloud-leonardo-sartorello-1652371199861-p362760
+`primeiro proejto machine learning`
+<https://insightlab.ufc.br/6-passos-para-criar-seu-primeiro-projeto-de-machine-learning/>
+
+`Roadmap de estudos`
+<https://www.programaria.org/roadmap-de-estudos-para-analise-ciencia-e-engenharia-de-dados/>
+
+`tendencias para Data Analytics`
+<https://lxp.triggo.ai/article/10-tendencias-de-Data-Analytics-para-este-ano>
+
+`primeiro deploy de machine learning`
+<https://www.youtube.com/watch?v=_dRfScGH7NA>
+
+`Calculo de regressa linear`
+<https://www.alura.com.br/artigos/desvendando-a-regressa>
+
+`Comandos em pandas mais importantes`
+<https://paulovasconcellos.com.br/28-comandos-%C3%BAteis-de-pandas-que-talvez-voc%C3%AA-n%C3%A3o-conhe%C3%A7a-6ab64beefa93>
+
+`Primeira aplicaçao machine learning`
+<https://paulovasconcellos.com.br/como-criar-seu-primeiro-aplicativo-de-machine-learning-7b6af291ba11>
+
+`Arquitetura Big Data`
+<https://www.linkedin.com/pulse/arquitetura-big-data-escolha-canaliza%C3%A7%C3%A3o-correta-para-lopes/?originalSubdomain=pt>
+
+`Computaçao em nuvem na alura Primeiros passos`
+<https://cursos.alura.com.br/challenge-devops-1-semana-2-google-cloud-leonardo-sartorello-1652371199861-p362760>
+
+`Cusros gratuitos de machine learning`
+<https://insightlab.ufc.br/5-cursos-gratuitos-de-data-science-e-machine-learning-para-fazer-na-quarentena>
