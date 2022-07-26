@@ -50,19 +50,23 @@ Examplos desses bancos sao:
 
 ## Modelos de arquitetura de dados
 
-data lake
+`data lake`
+
 ![lake](img/Data%20Lake.png)
 
-data hub
+`data hub`
+
 ![hub](img/data%20hub.jpg)
 
-data lakehause
+`data lakehause`
+
 ![lakehause](img/data-lakehouse.png)
 
-data layer
+`data layer`
+
 ![layer](img/data%20layer.png)
 
-data storage
+`data storage`
 
 ![storage](img/data%20store.png)
 
