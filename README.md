@@ -61,6 +61,7 @@
 - Nuvem
   - Google Cloud
   - Docker
+    - Rodagem de teste de machine learning entre outros
 - GitHub
   - Update diário
   - Visualização de coisas Difícil de explicar
@@ -131,8 +132,15 @@ Ver todas elas no W3schools !!!
 - Numpy
 - Pandas
 - Tensor Flow
+- Anaconda
 
 ### Matérias para aprender
+
+Tudo voltado para as maiores empresas do mercado
+
+AWS
+Apache
+Oracle
 
 - Big data
 - Cibersegurança
@@ -149,6 +157,12 @@ Ver todas elas no W3schools !!!
 - Infraestrutura de Dados
 - árvore de decisão/regressão, clustering
 - Lake house
+- Ecossistema de uma ferramenta (Hadoop)
+- Linux
+- Mlops
+- Anaconda
+- Tabpy
+- Map reduce
 
 ## Técnicas para usar nos estudos
 
@@ -197,7 +211,7 @@ Ver todas elas no W3schools !!!
 <https://www.youtube.com/watch?v=_dRfScGH7NA>
 
 `Calculo de regressa linear`
-<https://www.alura.com.br/artigos/desvendando-a-regressa>
+<https://www.alura.com.br/artigos/desvendando-a-regressao>
 
 `Comandos em pandas mais importantes`
 <https://paulovasconcellos.com.br/28-comandos-%C3%BAteis-de-pandas-que-talvez-voc%C3%AA-n%C3%A3o-conhe%C3%A7a-6ab64beefa93>
@@ -213,3 +227,19 @@ Ver todas elas no W3schools !!!
 
 `Cusros gratuitos de machine learning`
 <https://insightlab.ufc.br/5-cursos-gratuitos-de-data-science-e-machine-learning-para-fazer-na-quarentena>
+
+`A DBA virou Engenheira de Dados, e agora?`
+<https://imasters.com.br/carreira-dev/a-dba-virou-engenheira-de-dados-e-agora>
+
+`Consumindo APIs com Python - Parte 1`
+<https://www.treinaweb.com.br/blog/consumindo-apis-com-python-parte-1q>
+
+`Construçao de uma API em python`
+<https://dadosaocubo.com/manipulando-dados-em-postgresql-com-python/>
+
+`Tabpy`
+<https://www.datacamp.com/tutorial/getting-started-with-tabpy>
+<https://towardsdatascience.com/getting-started-with-tabpy-268f1da881cd>
+
+`Docker + postgresql`
+<https://www.programandocomcarlos.com.br/2020/01/postgresql-pgadmin-4-docker-compose.html>
