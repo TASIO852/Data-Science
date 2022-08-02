@@ -1,6 +1,7 @@
-# Fluxo de trabalho E Estudos
+# Data science tudo que voce precisa saber 🐱‍🏍
 
-## Planejamento (Cliente)
+# Montagem e planejamento de um projecto 
+## Planejamento (Cliente) 📚
 
 - Documentação
   - Regra de negocio (Readme)
@@ -15,7 +16,7 @@
   - Modelo logico código ETL
   - Modelo logico código python
 
-## Backend
+## Backend 🤖
 
 - Banco de dados NO-SQL
   - Estrutura do modelo de banco de dados
@@ -73,7 +74,7 @@
     - REGEX
   - Colocar arquivos fixos na OLAP
 
-## Front end | Deploy para a produção do Frontend
+## Front end | Deploy para a produção do Frontend ✨
 
 - Figma
   - Designer do painel
@@ -121,7 +122,7 @@ Ver todas elas no W3schools !!!
 
 - python
 - SQL
-- excel formulas
+- Excel formulas (VBA)
 - Docker
 - Tipos de arquivos
 
@@ -133,14 +134,20 @@ Ver todas elas no W3schools !!!
 - Pandas
 - Tensor Flow
 - Anaconda
+- Tabpy
+- PySpark
 
 ### Matérias para aprender
 
 Tudo voltado para as maiores empresas do mercado
 
-AWS
-Apache
-Oracle
+**AWS** Nuvem
+
+**Apache** Ferramentas
+
+**Postgres** Banco de dados relacional
+
+**MongoDB** Banco de dados No SQL
 
 - Big data
 - Cibersegurança
@@ -177,6 +184,7 @@ Oracle
 - Kambam e scrum
 - Alarmes e calendário com tasks (Kambam e scrum)
 - comer e se higienizar corretamente
+- Metodo cientifico
 
 ## Areas de Atuação e empregos
 
@@ -189,6 +197,8 @@ Oracle
 - Generalista data science
 
 ## Onde eu estou ? E por onde começar ?
+
+- Voce que está
 
 ## Plataformas gratuitas com certificado
 

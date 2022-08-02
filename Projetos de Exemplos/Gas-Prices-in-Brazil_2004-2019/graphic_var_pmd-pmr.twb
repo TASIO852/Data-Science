@@ -1,0 +1,648 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20214.22.0213.1102                               -->
+<workbook original-version='18.1' source-build='2021.4.4 (20214.22.0213.1102)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='2004-2019' inline='true' name='federated.1y93xk90vuzxns1cjcgr21uvwrei' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='2004-2019' name='textscan.1jpuq3k0bcovr21fl8u8l0i2v32d'>
+            <connection class='textscan' directory='C:/Estudos/datascience/gas-prices-in-brazil2004-2019/dados' filename='2004-2019.tsv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1jpuq3k0bcovr21fl8u8l0i2v32d' name='2004-2019.tsv' table='[2004-2019#tsv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator='&#9;'>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='date' name='DATA INICIAL' ordinal='1' />
+            <column datatype='date' name='DATA FINAL' ordinal='2' />
+            <column datatype='string' name='REGIÃO' ordinal='3' />
+            <column datatype='string' name='ESTADO' ordinal='4' />
+            <column datatype='string' name='PRODUTO' ordinal='5' />
+            <column datatype='integer' name='NÚMERO DE POSTOS PESQUISADOS' ordinal='6' />
+            <column datatype='string' name='UNIDADE DE MEDIDA' ordinal='7' />
+            <column datatype='real' name='PREÇO MÉDIO REVENDA' ordinal='8' />
+            <column datatype='real' name='DESVIO PADRÃO REVENDA' ordinal='9' />
+            <column datatype='real' name='PREÇO MÍNIMO REVENDA' ordinal='10' />
+            <column datatype='real' name='PREÇO MÁXIMO REVENDA' ordinal='11' />
+            <column datatype='real' name='MARGEM MÉDIA REVENDA' ordinal='12' />
+            <column datatype='real' name='COEF DE VARIAÇÃO REVENDA' ordinal='13' />
+            <column datatype='real' name='PREÇO MÉDIO DISTRIBUIÇÃO' ordinal='14' />
+            <column datatype='real' name='DESVIO PADRÃO DISTRIBUIÇÃO' ordinal='15' />
+            <column datatype='real' name='PREÇO MÍNIMO DISTRIBUIÇÃO' ordinal='16' />
+            <column datatype='real' name='PREÇO MÁXIMO DISTRIBUIÇÃO' ordinal='17' />
+            <column datatype='real' name='COEF DE VARIAÇÃO DISTRIBUIÇÃO' ordinal='18' />
+            <column datatype='string' name='MÊS' ordinal='19' />
+            <column datatype='string' date-parse-format='yyyy' name='ANO' ordinal='20' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.1jpuq3k0bcovr21fl8u8l0i2v32d' name='2004-2019.tsv' table='[2004-2019#tsv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator='&#9;'>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='date' name='DATA INICIAL' ordinal='1' />
+            <column datatype='date' name='DATA FINAL' ordinal='2' />
+            <column datatype='string' name='REGIÃO' ordinal='3' />
+            <column datatype='string' name='ESTADO' ordinal='4' />
+            <column datatype='string' name='PRODUTO' ordinal='5' />
+            <column datatype='integer' name='NÚMERO DE POSTOS PESQUISADOS' ordinal='6' />
+            <column datatype='string' name='UNIDADE DE MEDIDA' ordinal='7' />
+            <column datatype='real' name='PREÇO MÉDIO REVENDA' ordinal='8' />
+            <column datatype='real' name='DESVIO PADRÃO REVENDA' ordinal='9' />
+            <column datatype='real' name='PREÇO MÍNIMO REVENDA' ordinal='10' />
+            <column datatype='real' name='PREÇO MÁXIMO REVENDA' ordinal='11' />
+            <column datatype='real' name='MARGEM MÉDIA REVENDA' ordinal='12' />
+            <column datatype='real' name='COEF DE VARIAÇÃO REVENDA' ordinal='13' />
+            <column datatype='real' name='PREÇO MÉDIO DISTRIBUIÇÃO' ordinal='14' />
+            <column datatype='real' name='DESVIO PADRÃO DISTRIBUIÇÃO' ordinal='15' />
+            <column datatype='real' name='PREÇO MÍNIMO DISTRIBUIÇÃO' ordinal='16' />
+            <column datatype='real' name='PREÇO MÁXIMO DISTRIBUIÇÃO' ordinal='17' />
+            <column datatype='real' name='COEF DE VARIAÇÃO DISTRIBUIÇÃO' ordinal='18' />
+            <column datatype='string' name='MÊS' ordinal='19' />
+            <column datatype='string' date-parse-format='yyyy' name='ANO' ordinal='20' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;\\t&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>DATA INICIAL</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[DATA INICIAL]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>DATA INICIAL</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>DATA FINAL</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[DATA FINAL]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>DATA FINAL</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>REGIÃO</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[REGIÃO]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>REGIÃO</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ESTADO</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[ESTADO]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>ESTADO</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PRODUTO</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[PRODUTO]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>PRODUTO</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>NÚMERO DE POSTOS PESQUISADOS</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[NÚMERO DE POSTOS PESQUISADOS]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>NÚMERO DE POSTOS PESQUISADOS</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>UNIDADE DE MEDIDA</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[UNIDADE DE MEDIDA]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>UNIDADE DE MEDIDA</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PREÇO MÉDIO REVENDA</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[PREÇO MÉDIO REVENDA]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>PREÇO MÉDIO REVENDA</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>DESVIO PADRÃO REVENDA</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[DESVIO PADRÃO REVENDA]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>DESVIO PADRÃO REVENDA</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PREÇO MÍNIMO REVENDA</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[PREÇO MÍNIMO REVENDA]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>PREÇO MÍNIMO REVENDA</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PREÇO MÁXIMO REVENDA</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[PREÇO MÁXIMO REVENDA]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>PREÇO MÁXIMO REVENDA</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>MARGEM MÉDIA REVENDA</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[MARGEM MÉDIA REVENDA]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>MARGEM MÉDIA REVENDA</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>COEF DE VARIAÇÃO REVENDA</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[COEF DE VARIAÇÃO REVENDA]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>COEF DE VARIAÇÃO REVENDA</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PREÇO MÉDIO DISTRIBUIÇÃO</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[PREÇO MÉDIO DISTRIBUIÇÃO]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>PREÇO MÉDIO DISTRIBUIÇÃO</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>DESVIO PADRÃO DISTRIBUIÇÃO</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[DESVIO PADRÃO DISTRIBUIÇÃO]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>DESVIO PADRÃO DISTRIBUIÇÃO</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PREÇO MÍNIMO DISTRIBUIÇÃO</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[PREÇO MÍNIMO DISTRIBUIÇÃO]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>PREÇO MÍNIMO DISTRIBUIÇÃO</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>PREÇO MÁXIMO DISTRIBUIÇÃO</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[PREÇO MÁXIMO DISTRIBUIÇÃO]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>PREÇO MÁXIMO DISTRIBUIÇÃO</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>COEF DE VARIAÇÃO DISTRIBUIÇÃO</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[COEF DE VARIAÇÃO DISTRIBUIÇÃO]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>COEF DE VARIAÇÃO DISTRIBUIÇÃO</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>MÊS</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[MÊS]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>MÊS</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ANO</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[ANO]</local-name>
+            <parent-name>[2004-2019.tsv]</parent-name>
+            <remote-alias>ANO</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[:Measure Names]' role='dimension' type='nominal'>
+        <aliases>
+          <alias key='&quot;[federated.1y93xk90vuzxns1cjcgr21uvwrei].[var:PREÇO MÉDIO DISTRIBUIÇÃO:qk]&quot;' value='PMD' />
+          <alias key='&quot;[federated.1y93xk90vuzxns1cjcgr21uvwrei].[var:PREÇO MÉDIO REVENDA:qk]&quot;' value='PMR' />
+        </aliases>
+      </column>
+      <column caption='Coef De Variação Distribuição' datatype='real' name='[COEF DE VARIAÇÃO DISTRIBUIÇÃO]' role='measure' type='quantitative' />
+      <column caption='Coef De Variação Revenda' datatype='real' name='[COEF DE VARIAÇÃO REVENDA]' role='measure' type='quantitative' />
+      <column caption='Data Final' datatype='date' name='[DATA FINAL]' role='dimension' type='ordinal' />
+      <column caption='Data Inicial' datatype='date' name='[DATA INICIAL]' role='dimension' type='ordinal' />
+      <column caption='Desvio Padrão Distribuição' datatype='real' name='[DESVIO PADRÃO DISTRIBUIÇÃO]' role='measure' type='quantitative' />
+      <column caption='Desvio Padrão Revenda' datatype='real' name='[DESVIO PADRÃO REVENDA]' role='measure' type='quantitative' />
+      <column caption='Estado' datatype='string' name='[ESTADO]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
+      <column caption='Margem Média Revenda' datatype='real' name='[MARGEM MÉDIA REVENDA]' role='measure' type='quantitative' />
+      <column caption='Número De Postos Pesquisados' datatype='integer' name='[NÚMERO DE POSTOS PESQUISADOS]' role='measure' type='quantitative' />
+      <column caption='Preço Máximo Distribuição' datatype='real' name='[PREÇO MÁXIMO DISTRIBUIÇÃO]' role='measure' type='quantitative' />
+      <column caption='Preço Máximo Revenda' datatype='real' name='[PREÇO MÁXIMO REVENDA]' role='measure' type='quantitative' />
+      <column caption='Preço Médio Distribuição' datatype='real' name='[PREÇO MÉDIO DISTRIBUIÇÃO]' role='measure' type='quantitative' />
+      <column caption='Preço Médio Revenda' datatype='real' name='[PREÇO MÉDIO REVENDA]' role='measure' type='quantitative' />
+      <column caption='Preço Mínimo Distribuição' datatype='real' name='[PREÇO MÍNIMO DISTRIBUIÇÃO]' role='measure' type='quantitative' />
+      <column caption='Preço Mínimo Revenda' datatype='real' name='[PREÇO MÍNIMO REVENDA]' role='measure' type='quantitative' />
+      <column caption='Produto' datatype='string' name='[PRODUTO]' role='dimension' type='nominal' />
+      <column caption='Região' datatype='string' name='[REGIÃO]' role='dimension' type='nominal' />
+      <column caption='Unidade De Medida' datatype='string' name='[UNIDADE DE MEDIDA]' role='dimension' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='2004-2019.tsv' datatype='table' name='[__tableau_internal_object_id__].[2004-2019.tsv_3CDF4060DF044756AE3FCADE4FF3A080]' role='measure' type='quantitative' />
+      <column-instance column='[MARGEM MÉDIA REVENDA]' derivation='Avg' name='[avg:MARGEM MÉDIA REVENDA:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[PREÇO MÉDIO DISTRIBUIÇÃO]' derivation='Avg' name='[avg:PREÇO MÉDIO DISTRIBUIÇÃO:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[PREÇO MÉDIO REVENDA]' derivation='Avg' name='[avg:PREÇO MÉDIO REVENDA:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[MARGEM MÉDIA REVENDA]' derivation='Sum' name='[sum:MARGEM MÉDIA REVENDA:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[PREÇO MÉDIO DISTRIBUIÇÃO]' derivation='Sum' name='[sum:PREÇO MÉDIO DISTRIBUIÇÃO:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[PREÇO MÉDIO REVENDA]' derivation='Sum' name='[sum:PREÇO MÉDIO REVENDA:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[MARGEM MÉDIA REVENDA]' derivation='Var' name='[var:MARGEM MÉDIA REVENDA:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[PREÇO MÉDIO DISTRIBUIÇÃO]' derivation='Var' name='[var:PREÇO MÉDIO DISTRIBUIÇÃO:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[PREÇO MÉDIO REVENDA]' derivation='Var' name='[var:PREÇO MÉDIO REVENDA:qk]' pivot='key' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' rowDisplayCount='1000' show-aliased-fields='true' show-hidden-fields='true' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[:Measure Names]' palette='sf_water' type='palette'>
+            <map to='#0e6ece'>
+              <bucket>&quot;[federated.1y93xk90vuzxns1cjcgr21uvwrei].[var:PREÇO MÉDIO DISTRIBUIÇÃO:qk]&quot;</bucket>
+            </map>
+            <map to='#2d9ced'>
+              <bucket>&quot;[federated.1y93xk90vuzxns1cjcgr21uvwrei].[var:PREÇO MÉDIO REVENDA:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.1y93xk90vuzxns1cjcgr21uvwrei].[avg:PREÇO MÉDIO DISTRIBUIÇÃO:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.1y93xk90vuzxns1cjcgr21uvwrei].[sum:PREÇO MÉDIO DISTRIBUIÇÃO:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.1y93xk90vuzxns1cjcgr21uvwrei].[avg:MARGEM MÉDIA REVENDA:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.1y93xk90vuzxns1cjcgr21uvwrei].[sum:MARGEM MÉDIA REVENDA:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.1y93xk90vuzxns1cjcgr21uvwrei].[var:MARGEM MÉDIA REVENDA:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.1y93xk90vuzxns1cjcgr21uvwrei].[avg:PREÇO MÉDIO REVENDA:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.1y93xk90vuzxns1cjcgr21uvwrei].[sum:PREÇO MÉDIO REVENDA:qk]&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Brasil&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='2004-2019.tsv' id='2004-2019.tsv_3CDF4060DF044756AE3FCADE4FF3A080'>
+            <properties context=''>
+              <relation connection='textscan.1jpuq3k0bcovr21fl8u8l0i2v32d' name='2004-2019.tsv' table='[2004-2019#tsv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator='&#9;'>
+                  <column datatype='integer' name='F1' ordinal='0' />
+                  <column datatype='date' name='DATA INICIAL' ordinal='1' />
+                  <column datatype='date' name='DATA FINAL' ordinal='2' />
+                  <column datatype='string' name='REGIÃO' ordinal='3' />
+                  <column datatype='string' name='ESTADO' ordinal='4' />
+                  <column datatype='string' name='PRODUTO' ordinal='5' />
+                  <column datatype='integer' name='NÚMERO DE POSTOS PESQUISADOS' ordinal='6' />
+                  <column datatype='string' name='UNIDADE DE MEDIDA' ordinal='7' />
+                  <column datatype='real' name='PREÇO MÉDIO REVENDA' ordinal='8' />
+                  <column datatype='real' name='DESVIO PADRÃO REVENDA' ordinal='9' />
+                  <column datatype='real' name='PREÇO MÍNIMO REVENDA' ordinal='10' />
+                  <column datatype='real' name='PREÇO MÁXIMO REVENDA' ordinal='11' />
+                  <column datatype='real' name='MARGEM MÉDIA REVENDA' ordinal='12' />
+                  <column datatype='real' name='COEF DE VARIAÇÃO REVENDA' ordinal='13' />
+                  <column datatype='real' name='PREÇO MÉDIO DISTRIBUIÇÃO' ordinal='14' />
+                  <column datatype='real' name='DESVIO PADRÃO DISTRIBUIÇÃO' ordinal='15' />
+                  <column datatype='real' name='PREÇO MÍNIMO DISTRIBUIÇÃO' ordinal='16' />
+                  <column datatype='real' name='PREÇO MÁXIMO DISTRIBUIÇÃO' ordinal='17' />
+                  <column datatype='real' name='COEF DE VARIAÇÃO DISTRIBUIÇÃO' ordinal='18' />
+                  <column datatype='string' name='MÊS' ordinal='19' />
+                  <column datatype='string' date-parse-format='yyyy' name='ANO' ordinal='20' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Planilha 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'>Média das Variâncias de </run>
+            <run bold='true' fontalignment='1'>Gasolina Comum</run>
+            <run fontalignment='1'> por Ano
+(Preço Médio de Distribuição)</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='2004-2019' name='federated.1y93xk90vuzxns1cjcgr21uvwrei' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1y93xk90vuzxns1cjcgr21uvwrei'>
+            <column datatype='string' name='[ANO]' role='dimension' type='nominal' />
+            <column caption='Preço Médio Distribuição' datatype='real' name='[PREÇO MÉDIO DISTRIBUIÇÃO]' role='measure' type='quantitative' />
+            <column caption='Produto' datatype='string' name='[PRODUTO]' role='dimension' type='nominal' />
+            <column-instance column='[ANO]' derivation='None' name='[none:ANO:nk]' pivot='key' type='nominal' />
+            <column-instance column='[PRODUTO]' derivation='None' name='[none:PRODUTO:nk]' pivot='key' type='nominal' />
+            <column-instance column='[PREÇO MÉDIO DISTRIBUIÇÃO]' derivation='Var' name='[var:PREÇO MÉDIO DISTRIBUIÇÃO:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1y93xk90vuzxns1cjcgr21uvwrei].[none:PRODUTO:nk]'>
+            <groupfilter function='member' level='[none:PRODUTO:nk]' member='&quot;GASOLINA COMUM&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1y93xk90vuzxns1cjcgr21uvwrei].[none:PRODUTO:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='label'>
+            <format attr='text-orientation' field='[federated.1y93xk90vuzxns1cjcgr21uvwrei].[none:ANO:nk]' value='0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='1.3293370008468628' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1y93xk90vuzxns1cjcgr21uvwrei].[var:PREÇO MÉDIO DISTRIBUIÇÃO:qk]</rows>
+        <cols>[federated.1y93xk90vuzxns1cjcgr21uvwrei].[none:ANO:nk]</cols>
+      </table>
+      <simple-id uuid='{3B6D36BE-0829-42E3-B63B-86D2646EA6D1}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Planilha 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='254'>
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+        <highlight>
+          <color-one-way>
+            <field>[federated.1y93xk90vuzxns1cjcgr21uvwrei].[:Measure Names]</field>
+            <field>[federated.1y93xk90vuzxns1cjcgr21uvwrei].[none:ANO:nk]</field>
+            <field>[federated.1y93xk90vuzxns1cjcgr21uvwrei].[none:PRODUTO:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{85C87BAD-9F36-4E22-A069-D0768D120659}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Planilha 1' width='192'>
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>
