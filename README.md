@@ -1,6 +1,7 @@
 # Data science tudo que voce precisa saber 🐱‍🏍
 
-# Montagem e planejamento de um projecto 
+# Montagem e planejamento de um projecto
+
 ## Planejamento (Cliente) 📚
 
 - Documentação
@@ -188,7 +189,7 @@ Tudo voltado para as maiores empresas do mercado
 
 ## Areas de Atuação e empregos
 
-- cientista de dados
+- Cientista de dados
 - Arquiteto de dados
 - engenheiro ML
 - analista de dados
@@ -207,6 +208,12 @@ Tudo voltado para as maiores empresas do mercado
 - Udacy
 
 ## Artigos para Guia
+
+`Web Scraping`
+<https://medium.com/gbtech/usando-apache-airflow-para-orquestrar-web-scraping-de-tabela-de-c%C3%A2mbios-especiais-do-banco-central-f145c2bcdc07>
+
+`Carreiras na area de dados`
+<https://blog.dsacademy.com.br/10-carreiras-em-big-data-e-data-science/>
 
 `primeiro proejto machine learning`
 <https://insightlab.ufc.br/6-passos-para-criar-seu-primeiro-projeto-de-machine-learning/>

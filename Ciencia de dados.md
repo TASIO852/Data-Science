@@ -71,3 +71,26 @@ Susposiçao
 dados e informacoes
 
 Oque os gestores esperam sao informacoes nao dados que resolvam sua problematica
+
+O que são dados?
+são coleções de fatos, dados como números, medições, observações, ou mesmo apenas informações de fatos.
+
+Resultados de pesquisas, registro de vendas, banco de dados de sistemas internos são classificados como:
+Formato de dados específicos e internos.
+
+## Ciencia de dados e estatistica
+
+### Definnindo estatistica
+
+Estatística é um conjunto de métodos usados para se analisar dados. A Estatística pode ser aplicada em praticamente todas as áreas do conhecimento humano e em algumas áreas recebe um nome especial. Este é o caso da Bioestatística, que trata de aplicações da Estatística em Ciências Biológicas e da Saúde.
+
+`Areas da estatistica`
+
+- Probabilidade
+  Estudo da aleatoriedade e incerteza
+- Estatistica descritiva
+  Metodos de coleta organizaçao e apresentação analise e sintese dos dados obitidos de populaçao ou amostra
+- Estatistica inferencial
+  Estimar informacoes sobre uma populaçao apartir de amostrass
+
+Depende muito o uso da estatistica para a ciencia de dados
