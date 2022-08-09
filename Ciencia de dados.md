@@ -94,3 +94,24 @@ Estatística é um conjunto de métodos usados para se analisar dados. A Estatí
   Estimar informacoes sobre uma populaçao apartir de amostrass
 
 Depende muito o uso da estatistica para a ciencia de dados
+
+Ciencia de dados e uma area multidiciplinar r e python e machinelearning em ciencia de daods
+
+e conhecimento na area dos negocios
+
+Aprender de forma geral para depois ir especificando o raciocino para melhor compreençao da materia ou ferramenta e linguagem
+
+## Machine learning e MLops
+
+Oque aprendizado tomar descisoes
+
+Machine learning deu um boom por conta do big data e por conta da capacidade de armazenamento e processamento Com os GPU's (Unidades de processamento grafico)
+
+`Tipos de aprendizado de maquina `
+
+- supervisionado
+  - Regressoa 
+  - classificaçao
+- Nao supervisionado
+
+Nao da pra fazer ml sem dados historicos
