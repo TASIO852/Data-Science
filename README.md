@@ -206,6 +206,10 @@ Tudo voltado para as maiores empresas do mercado
 - Data science Academic
 - Harvard
 - Udacy
+- cisco
+- aws
+- google
+- 
 
 ## Artigos para Guia
 
@@ -260,3 +264,6 @@ Tudo voltado para as maiores empresas do mercado
 
 `Docker + postgresql`
 <https://www.programandocomcarlos.com.br/2020/01/postgresql-pgadmin-4-docker-compose.html>
+
+`Portifolio de ciencia de dados`
+<https://blog.dsacademy.com.br/como-construir-um-portfolio-de-projetos-em-data-science/>
