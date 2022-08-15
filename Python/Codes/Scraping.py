@@ -17,7 +17,7 @@ warnings.filterwarnings("ignore")
 
 
 def getPage():
-    url = "https://ptax.bcb.gov.br/ptax_internet/consultarTodasAsMoedas.do?method=consultaTodasMoedas"
+    url = "http://parceiros.heineken.com.br/irj/portal"
     try:
         user = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36'}

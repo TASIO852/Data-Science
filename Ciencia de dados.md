@@ -10,27 +10,27 @@ Ciência de dados é uma área interdisciplinar, que localiza-se em uma interfac
 
 ## Pilares da ciencia de dados
 
-- Matematica estatística
+- Matemática estatística
   - calculo
   - analise
-  - correlaçao
+  - correlação
   - limpeza
   - interpreção dos dados
-- Ciencia da Computaçao
+- Ciência da Computação
   - ferramentas
   - cluster
-- Area de negocios
+- Area de negócios
   - financeiro
-  - contabil
+  - contábil
   - comercial
   - rh
   - vendas
-  - logistica
-  - saude
+  - logística
+  - saúde
 
-DADOS NA TOMADA DE DECISAO
+DADOS NA TOMADA DE DECISÃO
 
-`Dados e analise `
+`Dados e analise`
 dados coletados para analise de um ciencista de dados para analaise completa com suas respectivas tecnicas
 
 `Decisao`
@@ -111,7 +111,7 @@ Oque aprendizado tomar descisoes (Obrigatorio ter dados historicos)
 
 Machine learning deu um boom por conta do big data e por conta da capacidade de armazenamento e processamento Com os GPU's (Unidades de processamento grafico)
 
-`Tipos de aprendizado de maquina `
+`Tipos de aprendizado de maquina`
 
 - supervisionado
   - Regressoa
@@ -236,7 +236,7 @@ probelmas e escopo do projeto e por area de conhecimento de area de negocios
 - Matematica
 - estudar a area que vc quer atuar e se especializar tanto na area de negocios quanto na area de tecnologia pqestao intrisicamente ligados
 
-`Definisao de problema `
+`Definisao de problema`
 
 _Area de vendas_
 
