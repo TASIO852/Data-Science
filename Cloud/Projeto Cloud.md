@@ -45,6 +45,6 @@
 
     Preço que atualmente estamos pagando R$56,99
 
-![windons](img/Windowns%20preco.jpg)
+![windons](../img/Windowns%20preco.jpg)
 
     Em resumo poderíamos comprar duas maquinas linux que seria a melhor escolha em todos os requisitos técnicos e de custo e tbm tempos o escopo do projeto pronto que a equipe ja esta executando e fazendo testes e implementando so presisamos das maquinas linux 😁
