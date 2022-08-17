@@ -1,50 +1,48 @@
-# Projeto cloud
+# Cloud ☁
 
-## Tecnologias que vao ser usadas
+Projeto De Infraestrutura E Arquitetura Da Nuvem Para Criação De Um Data Lakehause Para A Lippaus Distribuidora. 😉
 
-`Componentes do DataLakehause`
+## Tecnologias Que Vao Ser Usadas
 
-**Visualização**
+`Componentes Do Datalakehause`
+
+## Visualização
 
 - Tableau
 
-**Gerenciamento**
+## Gerenciamento
 
-- Hadoop (HDFS Hadoop Distributed File System)
+- Hadoop (Hdfs Hadoop Distributed File System)
 - Docker
-- airflow
-- PySpark
+- Airflow
+- Pyspark
 
-**Extraçao**
+## Extração
 
 - Kafka
 
-**Deploy api**
+## Deploy Api Ml
 
 - Heroku
-- Import.io
 
-**Databases**
+## Databases
 
-- MongoDB (NO-SQL)
-- Postgres (Relacional database)
-- DBmaker (Relacional database)
-- Cassandra (NO-SQL)
+- Mongodb (No-Sql)
+- Postgres (Relacional Database)
+- Dbmaker (Relacional Database)
+- Cassandra (No-Sql) Ou Databricks (No-Sql)
 
-`Ferramentas de controle de trabalho`
+`Ferramentas De Controle De Trabalho`
 
-- Git hub
-- vscode
+- Git Hub
+- Vscode
+- Jenkins
 - Jira
 
-## Orçamento do Cloud
+## Diagramação Do Sistemas
 
-    Apenas uma unica maquina linux podendo colocar duas para melhor performace e armazenamento
-
-![linux](../img/Pre%C3%A7o%20nuvem.jpg)
-
-    Preço que atualmente estamos pagando R$56,99
-
-![windons](../img/Windowns%20preco.jpg)
-
-    Em resumo poderíamos comprar duas maquinas linux que seria a melhor escolha em todos os requisitos técnicos e de custo e tbm tempos o escopo do projeto pronto que a equipe ja esta executando e fazendo testes e implementando so presisamos das maquinas linux 😁
+Modelo com uma maquina
+![](../img/Arquiteturas/Modelo%20com%20uma%20maquina.jpg)
+<br>
+Modelo com duas maquinas
+![](../img/Arquiteturas/Modelo%20com%20duas%20maquinas.jpg)

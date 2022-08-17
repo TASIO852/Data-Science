@@ -31,52 +31,57 @@ Ciência de dados é uma área interdisciplinar, que localiza-se em uma interfac
 DADOS NA TOMADA DE DECISÃO
 
 `Dados e analise`
-dados coletados para analise de um ciencista de dados para analaise completa com suas respectivas tecnicas
+dados coletados para analise de um cientista de dados
 
 `Decisao`
 
+Baseado nos dados que foram passados e feito a tomada de decisão
 `Açao`
 
-DATA DRIVEN
+Depois da decisao tomada pelo gestor e feito uma ação para que aconteça as mudanças e ver o resultado do trabalho do cientista de dados
 
-DADOS == > AÇAO
+**DATA DRIVEN**
 
-OQUE ACONTECEU (IDENTIFICAÇAO DO PROBLEMA)
-PQ ACONTECEU (EU RESPONDO ISSO COM MHS FERRAMENTAS)
-ACONTECERA NOVAMENTE(FAZER MACHINE LEARNE)
-OQUE DEVE SER FEITO(SUGERIR SOLUÇOES PARA O GESTOR)
+## Pontos a serem questionados em uma cultura data driven
 
-## Ciencia de dados e Big data
+- OQUE ACONTECEU ? (IDENTIFICAÇAO DO PROBLEMA)
+- PQ ACONTECEU ? (EU RESPONDO ISSO COM MHS FERRAMENTAS)
+- ACONTECERA NOVAMENTE ? (FAZER MACHINE LEARNE)
+- OQUE DEVE SER FEITO ? (SUGERIR SOLUÇOES PARA O GESTOR)
 
-de onde vem os dados
+## Ciencia de dados & Big data
 
-procedimentos medicos
-midias sociais (web escraping)
-noticias e jornais
-imagens de satelite (visao computacional)
-e-commerce (sistema de recomedaçoes )
-tv
-sensores
+> De onde vem os dados ?
 
-Oque os dados representao
+- procedimentos medicos
+- midias sociais (web escraping)
+- noticias e jornais
+- imagens de satelite (visao computacional)
+- e-commerce (sistema de recomedaçoes )
+- tv
+- sensores
 
-entidade
-caracteristicas
-ambientes
-eventos
-comportamento
-resultado
+> Oque os dados representao ?
 
-Atos na Area
-observaçao
-mediçao
-Susposiçao
+- entidade
+- caracteristicas
+- ambientes
+- eventos
+- comportamento
+- resultado
 
-dados e informacoes
+> Oque um ciencista de dados pode fazer ?
 
-Oque os gestores esperam sao informacoes nao dados que resolvam sua problematica
+- observaçao
+- mediçao
+- Susposiçao
 
-O que são dados?
+> dados e informacoes
+
+Oque os gestores esperam sao `informações` nao dados que resolvam sua problemática
+
+> O que são dados?
+
 são coleções de fatos, dados como números, medições, observações, ou mesmo apenas informações de fatos.
 
 Resultados de pesquisas, registro de vendas, banco de dados de sistemas internos são classificados como:
@@ -84,11 +89,11 @@ Formato de dados específicos e internos.
 
 ## Ciencia de dados e estatistica
 
-### Definnindo estatistica
+> Definnindo estatistica
 
 Estatística é um conjunto de métodos usados para se analisar dados. A Estatística pode ser aplicada em praticamente todas as áreas do conhecimento humano e em algumas áreas recebe um nome especial. Este é o caso da Bioestatística, que trata de aplicações da Estatística em Ciências Biológicas e da Saúde.
 
-`Areas da estatistica`
+> Areas da estatistica
 
 - Probabilidade
   Estudo da aleatoriedade e incerteza
@@ -97,13 +102,11 @@ Estatística é um conjunto de métodos usados para se analisar dados. A Estatí
 - Estatistica inferencial
   Estimar informacoes sobre uma populaçao apartir de amostrass
 
-Depende muito o uso da estatistica para a ciencia de dados
+> Oque a estatistica nos ensina ?
 
-Ciencia de dados e uma area multidiciplinar r e python e machinelearning em ciencia de daods
-
-e conhecimento na area dos negocios
-
-Aprender de forma geral para depois ir especificando o raciocino para melhor compreençao da materia ou ferramenta e linguagem
+- Depende muito o uso da estatistica para a ciencia de dados
+- Ciencia de dados e uma area multidiciplinar r e python e machinelearning em ciencia de daods e conhecimento na area dos negocios
+- Aprender de forma geral para depois ir especificando o raciocino para melhor compreençao da materia ou ferramenta e linguagem
 
 ## Machine learning e MLops
 
@@ -111,7 +114,7 @@ Oque aprendizado tomar descisoes (Obrigatorio ter dados historicos)
 
 Machine learning deu um boom por conta do big data e por conta da capacidade de armazenamento e processamento Com os GPU's (Unidades de processamento grafico)
 
-`Tipos de aprendizado de maquina`
+> Tipos de aprendizado de maquina
 
 - supervisionado
   - Regressoa
@@ -120,41 +123,35 @@ Machine learning deu um boom por conta do big data e por conta da capacidade de 
   - faz entrega de clusters para fazer a analise
   - Mineração de dados (so se o padrao existir)
 - Por reforço
-
   - Tentativa e erro se da toda a logica desse modelo
+    - Nao da pra fazer ml sem dados historicos
+- testar todos os tipos de algoritmos para ver qual eo melhor
 
-    Nao da pra fazer ml sem dados historicos
-
-testar todos os tipos de algoritmos para ver qual eo melhor
-
-To do (remenber)
-calendario celular
-
-stick notes
-google caledario
-
-deep learn imita o funcionamento da mente humana
+curiosidade : deep learn imita o funcionamento da mente humana
 
 ## Aplicaçoes da ciencia de dados
 
-reduzir os custos e aumentar o lucro
+**_reduzir os custos e aumentar o lucro_**
 
-oque e nessesario
+> oque e nessesario ?
+
 1 - problemas de negocios
+
 2 - dados historicos
+
 3- padrao exixtente nos dados
+
 4 - capacidade computacional e armazenamento e processamento de dados (AWS)
+
 5 - proficional de dados
 
-onde podemos aplicar a ciencia de dados
+> Onde podemos aplicar a ciencia de dados ?
 
-em todas as areas
+**Em todas as areas contanto que tenha um problema pra resolver com dados**
 
-tem que ter um problema pra resolver com dados
+> Areas de aplicaçao da ciencia de dados
 
-`Areas de aplicaçao da ciencia de dados`
-
-saúde
+`saúde`
 
 - prever ocorrencias de crises epleticas
 - previsao de epatite
@@ -166,7 +163,7 @@ saúde
 - detecsao de anormalidades nos mebros
 - medicina personalizada dna melhor tratamento clinico
 
-marketing
+`marketing`
 
 - avaliação de produto
 - mix de produto
@@ -175,7 +172,7 @@ marketing
 - mecanismo de recomendações
 - MApeamento de cliques
 
-Finanças
+`Finanças`
 
 - Bot trader - róbor de recomendações de ativos
 - Analise de risco em operações financeiras com previsões
@@ -188,7 +185,7 @@ Finanças
 - detecção de anomalias de transasses com fintechs
 - analise de fundos de hedge
 
-Vendas
+`Vendas`
 
 - previsão de demanda e vendas
 - Analises preditivas em vendas B2b
@@ -202,10 +199,14 @@ Vendas
 
 ## Ciclo de vida de um projeto em ciencia de dados
 
-Probelma >> arquitetura e planejamentp e tech >> dashboard
+**Probelma >> arquitetura e planejamentp e Tecnologias >> Dashboard**
+
+> Quanto tempo leva para concluir um projeto ?
 
 leva de 3 a 6 meses dependendo do tamanho do projeto
 caracteristicas de um projeto
+
+> Oque e presiso para definir um projeto ?
 
 - definiçao do problema
 - tem inicio e fim
@@ -213,7 +214,9 @@ caracteristicas de um projeto
 - limitaçao de recursos e computacionais e de dinheiro
 - ter objetivo claro e viavel no começo do projeto para a soluçao
 
-probelmas e escopo do projeto e por area de conhecimento de area de negocios
+- **probelmas e escopo do projeto e por area de conhecimento de area de negocios**
+
+> Quais sao os conhecimentos Extras para fazer um projeto ?
 
 - Conhecimento na area de gestao de projetos
 - diciplina e gerenciamento de dados
@@ -231,60 +234,71 @@ probelmas e escopo do projeto e por area de conhecimento de area de negocios
 - Criar brainstorm para os dois lados compreender o problema E SEMPRE VC TEM QUE TER A RAZAO sempre levar a pessoa pro seu lado
 - provesso interativo de descoberta do problema
 - Identificasao do problema eo mais dificil
-
 - Estudar gestao empresarial
 - Matematica
 - estudar a area que vc quer atuar e se especializar tanto na area de negocios quanto na area de tecnologia pqestao intrisicamente ligados
 
-`Definisao de problema`
+![](../img/Fases%20do%20projeto/Comprensao%20do%20problema.jpg)
 
-_Area de vendas_
+> Definisao de problema
 
-Quais sao os clientes mais rentaveis?
+**_Area de vendas_**
 
-soluçao : fazer um dashboard para o entendimento desses dados(SQL TABLEAU)
+- Quais sao os clientes mais rentaveis?
+  - soluçao : fazer um dashboard para o entendimento desses dados(SQL TABLEAU)
+- existem diferenças entre os clientes mais rentaveis ea media de clientes ?
+  - soluçao : usar estatistica e realizar um teste de hipotese (R)
+- Algum cliente em particular **estara** no grupo dos mais rentaveis e qual eo faturamento dele ?
+  - Solução : analise exploratoria com python e usar um modelo de ML
 
-existem diferenças entre os clientes mais rentaveis ea media de clientes ?
-
-soluçao : usar estatistica e realizar um teste de hipotese (R)
-
-Algum cliente em particular **estara** no grupo dos mais rentaveis e qual eo faturamento dele ?
-
-Solução : analise exploratoria com python e usar um modelo de ML
-
-Colocar varios entregaveis para cada problema
+**Colocar varios entregaveis para cada problema**
 
 > Ciclo de vida
+
+![](../img/Fases%20do%20projeto/Ciclo%20de%20vida%20de%20um%20projeto.jpg)
 
 `Planejamento`
 
 Ter um plano bem definido para poder executar as atividade e resolver o problema com todas as tecnologias e pontos do problema bem definidos
+<br>
+![](../img/Fases%20do%20projeto/Planejamento.jpg)
 
 `Engenharia de dados`
 
 Cuida de todo o backend da aplicaçao de dados para deixar tudo certo para o analytcs
+<br>
+![](../img/Fases%20do%20projeto/Engenharia%20de%20dados.jpg)
 
 `Analytics`
 
 Modelagem dos modelos de estatistica e machine learning
+<br>
+![](../img/Fases%20do%20projeto/Analitcs.jpg)
 
 `Produçao`
 
 Construçao dos produtos nos diversos formatos que vao atender o cliente com sua demanda para a resoluçao do problema
+<br>
+![](../img/Fases%20do%20projeto/Produ%C3%A7ao.jpg)
 
-Aprendizado orientado a projetos com squads (alura x DSA)
+**Aprendizado orientado a projetos com squads para trabalahar em equipe (alura x DSA)**
 
-> sFases dos projetos de dados
+> Fases dos projetos de dados
 
-Definisao do problema
+![](../img/Fases%20do%20projeto/Fases%20do%20projeto%20de%20dados.jpg)
+
+Tem que ser muito bem tratado os dados.A chave e ter boas questoes na area de data science
+
+- Definisao do problema
 
 - Dados
 
 - Analise exploratoria
 
 - Modelagem
-  MOdelagem preditiva
-  modelagem estatistica
+
+  - Modelagem preditiva
+  - Modelagem estatistica
 
 - Interpretaçao
 
@@ -293,21 +307,13 @@ Definisao do problema
 
 > Produto final do projetos
 
-Tem que ser muito bem tratado os dados
-
-A chave e ter boas questoes na area de data science
-
-Produtos
-
 - relatorios
 - Graficos e dashboards
 - Modelos estatisticos/preditivos (geralmente e entregue a outro profisinal de TI ou de daodos)
-- web apps (interasao entre `Software e Dados` gerar api)
+- web apps (interasao entre `Software e Dados` gerar api `Daas`)
 - sistema de recomendações
 
-> Cultura de dados
-
-data driven
+> Cultura de dados data driven
 
 Tem que covencer o gestor que e nessesario ser orientado a dados `TEM QUE VENDER O PRODUTO`
 
@@ -319,8 +325,8 @@ Tem que covencer o gestor que e nessesario ser orientado a dados `TEM QUE VENDER
 - saber conversar os dois idiomas tanto o de TI quanto o de negocios
 
 `Areas e profisoes em dados`
-Consultoria em dados
 
+- Consultoria em dados (Empreendedor)
 - Analista de negocios
 - Analista de dados
 - **Cientista de dados**
@@ -342,3 +348,9 @@ Consultoria em dados
 - senso de negocios
 - Pensamento Critico para soluçao
 - **Inteligencia emocional**
+
+# Bonus 💫
+
+Para aqueles que desejam ser empreendedores podemos colocar preço em nosso projetos seguindo esta tabela
+
+![](../img/Valor%20de%20um%20dashboard.png)

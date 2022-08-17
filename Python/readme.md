@@ -1,67 +1,80 @@
-<!-- # Conceitos
-<b>O que vamos estudar hoje:</b><br />
-    &#10139; Conceitos: <b>Vetor (Array): </b> é uma <b>Estrutura de Dados</b> usada para memorizar (memória primária) grandes volumes de dados.<br/>
-    &#10139; Características: <b>Vetor: 1D (Dimensão: Linha), Matriz (Tabela): 2D (Dimensão: Linha e Coluna) e Prisma: 3D (Dimensão: X, Y e Z - Computação Gráfica)</b><br/>
-    &#10139; Características: <b>Homogêneo (mesmo tipo: inteiro ou real)</b> e <b>Estático (Tamanho Fixo)</b><br/>
-    &#10139; Componentes de um Vetor: <b>Elementos ou termos, Indexação (Índice) e Tamanho Máximo (Fixo).</b><br/>
-    &#10139; <b>Indexação (Índice): </b>É uma variável inteira usada para acessar os termos ou elementos de um vetor (Valores).<br/>
-    &#10139; <b>Indexação (Índice Crescente): </b>Índices entre [0 ... TAMANHO - 1]<br/>
-    &#10139; <b>Indexação (Índice Decrescente): </b>Índices entre [- 1 ... -TAMANHO]<br/>
-    &#10139; <b>Indexação: </b>Posição = Índice + 1<br/>
-    &#10139; <b>Indexação: </b>Índice  = Posição - 1<br/><br/>
-    <table border="1" width="750">
-            <caption><b>Exemplo de Vetor: Notas do 1° Bimestre</b></caption>
-            <tr>
-                <th bgcolor="blue" bold=true>POSIÇÃO NA PAUTA</th>
-                <th bgcolor="green">Aluno 1</th>
-                <th bgcolor="green">Aluno 2</th>
-                <th bgcolor="green">Aluno 3</th>
-                <th bgcolor="green">...</th>
-                <th bgcolor="green">Aluno 50</th>
-            </tr>
-            <tr>
-                <th bgcolor="blue" bold=true><b>BIMESTRE 1</b></th>
-                <th bgcolor="green">7.7</th>
-                <th bgcolor="green">5.5</th>
-                <th bgcolor="green">9.2</th>
-                <th bgcolor="green">...</th>
-                <th bgcolor="green">8.4</th>
-            </tr>
-            <tr>
-                <th bgcolor="blue" bold=true>ÍNDICE</th>
-                <th bgcolor="green">0</th>
-                <th bgcolor="green">1</th>
-                <th bgcolor="green">2</th>
-                <th bgcolor="green">...</th>
-                <th bgcolor="green">49</th>
-            </tr>
-    </table>
+*Instructions: Click on the raw button in the upper right hand corner of this box.  Copy and paste the template into the README.md document on your github.  Fill in the titles, information and links where prompted! Feel free to stray a bit to suit your project but try to stick to the format as closely as possible for consistency across DSWG projects.*
+
+# Project Name
+This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
+
+#### -- Project Status: [Active, On-Hold, Completed]
+
+## Project Intro/Objective
+The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+
+### Partner
+* [Name of Partner organization/Government department etc..]
+* Website for partner
+* Partner contact: [Name of Contact], [slack handle of contact if any]
+* If you do not have a partner leave this section out
+
+### Methods Used
+* Inferential Statistics
+* Machine Learning
+* Data Visualization
+* Predictive Modeling
+* etc.  
+
+### Technologies
+* R 
+* Python
+* D3
+* PostGres, MySql
+* Pandas, jupyter
+* HTML
+* JavaScript
+* etc. 
+
+## Project Description
+(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+
+## Needs of this project
+
+- frontend developers
+- data exploration/descriptive statistics
+- data processing/cleaning
+- statistical modeling
+- writeup/reporting
+- etc. (be as specific as possible)
+
+## Getting Started
+
+1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+
+    *If using offline data mention that and how they may obtain the data from the froup)*
+    
+3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
+4. etc...
+
+*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
+
+5. Follow setup [instructions](Link to file)
+
+## Featured Notebooks/Analysis/Deliverables
+* [Notebook/Markdown/Slide Deck Title](link)
+* [Notebook/Markdown/Slide DeckTitle](link)
+* [Blog Post](link)
 
 
-#### Tipos de variáveis:
+## Contributing DSWG Members
 
-- Numeric Python:
+**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
 
-  - Quantitativa Discreta: int
-  - Quantitativa Contínua: float
+#### Other Members:
 
-- Pandas:
+|Name     |  Slack Handle   | 
+|---------|-----------------|
+|[Full Name](https://github.com/[github handle])| @johnDoe        |
+|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
 
-  - Qualitativa Nominal: string
-  - Qualitativa Ordinal: string
-
-#### Medidas em estatística descritiva: Informações
-
-- Medidas de posição:
-
-  - Média : Qual a unidade da média? unidade dos dados.
-  - Mediana: Qual a unidade da mediana? unidade dos dados.
-  - Moda: Qual a unidade da mediana? unidade dos dados.
-  - quartis (1, 2 e 3): Qual a unidade da mediana? unidade dos dados.
-
-- Medidas de dispersão:
-
-  - Amplitude: MAX - MIN: unidade dos dados.
-  - Variância: unidade dos dados.
-  - Desvio Padrão amostral: unidade dos dados.
-  - Coeficiente de Variação (CV): CV = Desvio Padrão amostral / média \* 100: % -->
+## Contact
+* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
+* Our slack channel is `#datasci-projectname`
+* Feel free to contact team leads with any questions or if you are interested in contributing!
