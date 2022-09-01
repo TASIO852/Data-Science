@@ -184,7 +184,6 @@ Tudo voltado para as maiores empresas do mercado
 - Revisar Processo e código de outra pessoa
 - Kambam e scrum
 - Alarmes e calendário com tasks (Kambam e scrum)
-- comer e se higienizar corretamente
 - Metodo cientifico
 
 ## Areas de Atuação e empregos
@@ -209,7 +208,8 @@ Tudo voltado para as maiores empresas do mercado
 - cisco
 - aws
 - google
-- 
+- Fiapx
+- Udemy
 
 ## Artigos para Guia
 

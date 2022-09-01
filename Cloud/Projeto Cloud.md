@@ -4,7 +4,7 @@ Projeto De Infraestrutura E Arquitetura Da Nuvem Para Criação De Um Data Lakeh
 
 ## Tecnologias Que Vao Ser Usadas
 
-`Componentes Do Datalakehause`
+`Componentes Do Data lake house`
 
 ## Visualização
 
@@ -42,7 +42,10 @@ Projeto De Infraestrutura E Arquitetura Da Nuvem Para Criação De Um Data Lakeh
 ## Diagramação Do Sistemas
 
 Modelo com uma maquina
-![](../img/Arquiteturas/Modelo%20com%20uma%20maquina.jpg)
+![1](../img/Arquiteturas/Modelo%20com%20uma%20maquina.jpg)
 <br>
 Modelo com duas maquinas
-![](../img/Arquiteturas/Modelo%20com%20duas%20maquinas.jpg)
+
+![2](../img/Arquiteturas/Modelo%20com%20duas%20maquinas.jpg)
+
+[Discords de ciencia de daodos](https://towardsdatascience.com/top-20-data-science-discord-servers-to-join-in-2020-567b45738e9d)
