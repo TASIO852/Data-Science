@@ -1,6 +1,8 @@
 # Data science tudo que voce precisa saber 🐱‍🏍
 
-# Montagem e planejamento de um projecto
+## **Montagem e planejamento de um project**
+
+![Preços](img/Valor%20de%20um%20dashboard.png)
 
 ## Planejamento (Cliente) 📚
 
@@ -192,7 +194,7 @@ Tudo voltado para as maiores empresas do mercado
 - Arquiteto de dados
 - engenheiro ML
 - analista de dados
-- dba
+- DBA
 - engenheiro de dados
 - Generalista data science
 
@@ -204,14 +206,24 @@ Tudo voltado para as maiores empresas do mercado
 
 - Data science Academic
 - Harvard
-- Udacy
-- cisco
-- aws
-- google
-- Fiapx
+- Udacity
+- AWS
+- Cisco
+- Aws
+- Google
+- Fiap
+- Coursera
 - Udemy
+- kaggle
+- labdata
+- awari
+- Ibm
+- Nyu
+- Datacamp
 
 ## Artigos para Guia
+
+Cursos
 
 `Web Scraping`
 <https://medium.com/gbtech/usando-apache-airflow-para-orquestrar-web-scraping-de-tabela-de-c%C3%A2mbios-especiais-do-banco-central-f145c2bcdc07>
