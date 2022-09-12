@@ -195,7 +195,7 @@ Tudo voltado para as maiores empresas do mercado
 - engenheiro ML
 - analista de dados
 - DBA
-- engenheiro de dados
+- **engenheiro de dados**
 - Generalista data science
 
 ## Onde eu estou ? E por onde começar ?
