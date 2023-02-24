@@ -1,0 +1,14 @@
+{
+    "description": "",
+    "creation_time": "0",
+    "state_path": "C:\\Users\\tasio.guimaraes\\Anaconda3\\Lib\\site-packages\\tabpy\\tabpy_server",
+    "server_version": "2.5.0",
+    "name": "TabPy Server",
+    "versions": {
+        "v1": {
+            "features": {
+                "evaluate_enabled": true
+            }
+        }
+    }
+}
