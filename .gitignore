@@ -1,0 +1,9 @@
+ec2.pem
+new_user_credentials.csv
+.github
+spark-3.3.1-bin-hadoop3.tgz
+\spark-3.3.1-bin-hadoop3
+*.csv
+*.env
+mkdocs.yml
+\__pycache__
