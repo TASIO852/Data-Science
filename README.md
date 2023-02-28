@@ -578,9 +578,8 @@ Tem que covencer o gestor que e nessesario ser orientado a dados `TEM QUE VENDER
 - Pensamento Critico para soluçao
 - **Inteligencia emocional**
 
-## Artigos para Guia
-
-Cursos
+<details>
+<summary><samp>Artigos para Guia && Cursos</samp></summary>
 
 `Web Scraping`
 <https://medium.com/gbtech/usando-apache-airflow-para-orquestrar-web-scraping-de-tabela-de-c%C3%A2mbios-especiais-do-banco-central-f145c2bcdc07>
@@ -636,3 +635,5 @@ Cursos
 
 `Portifolio de ciencia de dados`
 <https://blog.dsacademy.com.br/como-construir-um-portfolio-de-projetos-em-data-science/>
+
+</details>
