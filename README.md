@@ -328,7 +328,7 @@ Estatística é um conjunto de métodos usados para se analisar dados. A Estatí
 > Oque a estatistica nos ensina ?
 
 - Depende muito o uso da estatistica para a ciencia de dados
-- Ciencia de dados e uma area multidiciplinar r e python e machinelearning em ciencia de daods e conhecimento na area dos negocios
+- Ciencia de dados e uma area multidiciplinar r e python e machine learning em ciencia de daods e conhecimento na area dos negocios
 - Aprender de forma geral para depois ir especificando o raciocino para melhor compreençao da materia ou ferramenta e linguagem
 
 ## Machine learning e MLops
@@ -336,6 +336,16 @@ Estatística é um conjunto de métodos usados para se analisar dados. A Estatí
 Oque aprendizado tomar descisoes (Obrigatorio ter dados historicos)
 
 Machine learning deu um boom por conta do big data e por conta da capacidade de armazenamento e processamento Com os GPU's (Unidades de processamento grafico)
+
+O aprendizado de maquina e um campo da ciencia da computaçao que se concentra em criar sistemas que sao capazes de aprender apartir dos dados
+
+> Aplicaçoes do machine learn
+
+- reconhecimento de voz
+- analise de sentimentos
+- recomendaçoes
+- detecçao de fraudes
+- previsoes empresariais
 
 > Tipos de aprendizado de maquina
 
@@ -348,9 +358,14 @@ Machine learning deu um boom por conta do big data e por conta da capacidade de 
 - Por reforço
   - Tentativa e erro se da toda a logica desse modelo
     - Nao da pra fazer ml sem dados historicos
-- testar todos os tipos de algoritmos para ver qual eo melhor
+- Apredizado profundo
+  - E muito enviezado pelo deep learn
+  - um dos viezes e colocar para aprender detalhes dos dados de forma profunda
 
 curiosidade : deep learn imita o funcionamento da mente humana
+
+- `Overfitting` é um conceito em ciência de dados, que ocorre quando um modelo estatístico se ajusta exatamente aos seus dados de treinamento. Quando isso acontece, o algoritmo infelizmente não pode funcionar com precisão em dados não vistos, anulando seu propósito.
+- `Underfitting` é um cenário em ciência de dados em que um modelo de dados é incapaz de capturar a relação entre as variáveis de entrada e saída com precisão, gerando uma alta taxa de erro tanto no conjunto de treinamento quanto nos dados não vistos.
 
 ## Aplicaçoes da ciencia de dados
 
